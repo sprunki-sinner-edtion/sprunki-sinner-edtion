@@ -4,6 +4,9 @@ Sprunki Sinner is an exciting fan-made variant of the popular Suika (Watermelon)
 
 ###  Offical Website of Sprunki Sinner
 🎀 Visit [sprunkisinner.co](https://sprunkisinner.co) to have fun!
+![screenshot](https://github.com/user-attachments/assets/8a4a4812-c71d-465c-ad45-e2c5f418fd8b)
+![screenshot-1](https://github.com/user-attachments/assets/67cca738-6664-4457-95f8-0ea87ada8dc1)
+![screenshot-2](https://github.com/user-attachments/assets/b6a9db17-a888-497d-b0ab-331d876116c0)
 
 ### Key Elements:
 

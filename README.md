@@ -2,13 +2,15 @@
 Have you ever wondered what happens when you combine the addictive gameplay of Suika Game with a dash of dark humor? That's exactly what Sprunki Sinner brings to the table!
 Sprunki Sinner is an exciting fan-made variant of the popular Suika (Watermelon) Game, featuring unique characters and a distinctive art style. Instead of merging fruits, you'll be combining various characters from the Sprunki universe, each with their own personality and charm.
 
-###  Offical Website of Sprunki Sinner
+##  Offical Website of Sprunki Sinner
 🎀 Visit [sprunkisinner.co](https://sprunkisinner.co) to have fun!
-![screenshot](https://github.com/user-attachments/assets/8a4a4812-c71d-465c-ad45-e2c5f418fd8b)
+## Screenshot of Spurnki Sinner
+![screenshot-2](https://github.com/user-attachments/assets/c14d3572-80a9-41c6-a239-960577950005)
+
 ![screenshot-1](https://github.com/user-attachments/assets/67cca738-6664-4457-95f8-0ea87ada8dc1)
 ![screenshot-2](https://github.com/user-attachments/assets/b6a9db17-a888-497d-b0ab-331d876116c0)
 
-### Key Elements:
+## Key Elements:
 
 - Free-to-play browser game
 - Merge-style gameplay mechanics
